@@ -1,0 +1,8 @@
+[package]
+
+name = "rust_euler"
+version = "0.0.1"
+authors = ["Jason Schein <jasonschein@gmail.com>"]
+
+[dependencies]
+num = "*"
